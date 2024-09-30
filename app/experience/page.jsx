@@ -39,11 +39,11 @@ const experiences = [
     duration: "2015-2016",
 
     responsibility1:
-      "Implemented Health Information Management System using VB (Windows) and Java (Web), improving development efficiency and reusability",
+      "Implemented Health Information Management System using VB (Windows) and Java (Web), improving development efficiency and reusability.",
     responsibility2:
       "Developed user-friendly interfaces with AngularJS and Java, boosting client satisfaction and drafting end-user documentation.",
     responsibility3:
-      "Applied MVC patterns, increasing maintenance efficiency by 20% during change requests and version management",
+      "Applied MVC patterns, increasing maintenance efficiency by 20% during change requests and version management.",
     responsibility4:
       "Enhanced team productivity by 30% through functional module development and reduced manual efforts by 50% with MSSQL-driven reporting.",
     responsibility5:
@@ -59,7 +59,7 @@ const Experience = () => {
           initial={{ opacity: 0 }}
           animate={{
             opacity: 1,
-            transition: { delay: 0.2, duration: 0.4, ease: "easeIn" },
+            transition: { delay: 0.4, duration: 0.4, ease: "easeIn" },
           }}
           className="flex-1 flex flex-col justify-center gap-6 group"
         >

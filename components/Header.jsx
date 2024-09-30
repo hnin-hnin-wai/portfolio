@@ -15,7 +15,7 @@ const Header = () => {
             alt=""
             priority
             quality={100}
-            fill={true}
+            fill
             width={"50%"}
             height={"30%"}
             style={{ borderRadius: "50%" }}

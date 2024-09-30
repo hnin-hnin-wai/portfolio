@@ -19,7 +19,7 @@ export default function Home() {
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
               I am proficient in Software development.
-              <br />I like to learn new technology and challenging.
+              <br />I like to learn new technologies and challenging.
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Button

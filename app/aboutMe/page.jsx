@@ -17,7 +17,7 @@ import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 const about = {
   title: "It's me!",
   description:
-    "Software Developer with 5 years of experience in building scalable web applications and backend systems. Proficient in JavaScript, Node.js, React.js, Java, Spring Boot, and RESTful API development, with expertise in relational databases. Experienced in optimizing database schemas, ensuring system performance, and conducting comprehensive testing.Adept at problem-solving, decision-making, and effective communication. Collaborative a team player focused on achieving project goals.",
+    "Software Developer with 5 years of experience in building scalable web applications and backend systems. Proficient in JavaScript, Node.js, React.js, Java, Spring Boot, and RESTful API development, with expertise in relational databases. Experienced in optimizing database schemas, ensuring system performance, and conducting comprehensive testing. Adept at problem-solving, decision-making, and effective communication. Collaborative a team player focused on achieving project goals.",
   info: [
     {
       fieldName: <FaPhoneAlt />,
@@ -60,8 +60,7 @@ const education = {
 //skills data
 const skills = {
   title: "My skills",
-  description:
-    "I apply some technologies that are developed in my work and projects.",
+  description: "Some technologies are applied in my work and projects.",
   skilllist: [
     {
       icon: <FaHtml5 />,
@@ -123,7 +122,7 @@ const AboutMe = () => {
       animate={{
         opacity: 1,
         transition: {
-          delay: 0.2,
+          delay: 0.4,
           duration: 0.4,
           ease: "easeIn",
         },
